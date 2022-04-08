@@ -1,19 +1,8 @@
-# Kernel_sources_XavierNX
+This branch contains kernel sources for JetPack 4.6 
 
-Contains Airvolute customized kernel sources for Xavier NX 
-
-
-clone to .../Linux_for_tegra directory 
-
-switch branch to corresponding JetPack version 
+sync tag:  tegra-l4t-r32.4.6
 
 
-
-# Create support for new JP version
-  - clone repo to .../Linux_for_tegra/  
-  - create new git branch 
-  - sync sources with desired tag
-  - copy files from .../Linux_for_tegra/source -> 
-  - deinit all git sub-directories  rm -rf .git
-
+Remove git sub-directories
+find . -type d -name ".git" -exec rm -rf {} +
 
