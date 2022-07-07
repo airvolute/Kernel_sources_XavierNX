@@ -755,13 +755,17 @@ static const int ov9281_mode0_fps[] = {
 	30,
 	35,
 	40,
+	50,
 	156,
 };
 
 static const int ov9281_mode2_fps[] = {
 	20,
+	30,
 	40,
+	50,
 	60,
+	70,
 	80,
 	100,
 	120,
