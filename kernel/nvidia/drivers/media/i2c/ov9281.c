@@ -464,7 +464,7 @@ static int ov9281_power_on(struct camera_common_data *s_data)
 		goto addr_assign_fail;
 	*/
 
-	usleep_range(23000, 23100);
+	usleep_range(66000, 67000);
 
 	pw->state = SWITCH_ON;
 	return 0;
@@ -817,12 +817,12 @@ static int ov9281_board_setup(struct ov9281 *priv)
 	if (!err && fsync_str && (strcmp(fsync_str, "slave-trigger") == 0))
 	{
 		priv->fsync = OV9281_FSYNC_SLAVE_TRIGGER;
-		dev_dbg(dev, "ov9281 camera configured in fsync slave-trigger mode \n");
+		dev_info(dev, "ov9281 camera configured in fsync slave-trigger mode \n");
 	}
 	else
 	{
 		priv->fsync = OV9281_FSYNC_NONE;
-		dev_dbg(dev, "ov9281 camera configured in free-run mode \n");
+		dev_info(dev, "ov9281 camera configured in free-run mode \n");
 	}
 
 	/* Probe sensor model id registers */
@@ -946,4 +946,5 @@ module_i2c_driver(ov9281_i2c_driver);
 MODULE_DESCRIPTION("SoC Camera driver for Omnivison OV9281");
 MODULE_AUTHOR("NVIDIA Corporation");
 MODULE_LICENSE("GPL v2");
+
 
