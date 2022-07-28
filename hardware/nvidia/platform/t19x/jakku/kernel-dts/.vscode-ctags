@@ -1,0 +1,515 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/tomas/nvidia/nvidia_sdk/JetPack_4.6_Linux_JETSON_XAVIER_NX_TARGETS/Linux_for_Tegra/kernel_sources_xaviernx/hardware/nvidia/platform/t19x/jakku/kernel-dts/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/227c65e7/
+aepilot1_1v8	common/tegra194-fixed-regulator-p3509-0000-a00.dtsi	/^		aepilot1_1v8: regulator@115 {$/;"	l
+aepilot1_3v3	common/tegra194-fixed-regulator-p3509-0000-a00.dtsi	/^		aepilot1_3v3: regulator@114 {$/;"	l
+arducam_cam0	common/tegra194-camera-arducam.dtsi	/^			arducam_cam0: arducam_a@0c {$/;"	l	label:i2c_0
+arducam_cam0	common/tegra194-camera-dcpilot-arducam.dtsi	/^				arducam_cam0: arducam_a@0c {$/;"	l	label:i2c_0
+arducam_cam1	common/tegra194-camera-dcpilot-arducam.dtsi	/^				arducam_cam1: arducam_c@0c {$/;"	l	label:i2c_1
+arducam_cam2	common/tegra194-camera-dcpilot-arducam.dtsi	/^				arducam_cam2: arducam_d@0c {$/;"	l	label:i2c_2
+arducam_cam3	common/tegra194-camera-dcpilot-arducam.dtsi	/^				arducam_cam3: arducam_e@0c {$/;"	l	label:i2c_3
+arducam_cam4	common/tegra194-camera-dcpilot-arducam.dtsi	/^				arducam_cam4: arducam_b@0c {$/;"	l	label:i2c_4
+arducam_cam5	common/tegra194-camera-dcpilot-arducam.dtsi	/^				arducam_cam5: arducam_g@0c {$/;"	l	label:i2c_5
+arducam_csi_in0	common/tegra194-camera-arducam.dtsi	/^						arducam_csi_in0: endpoint@0 {$/;"	l	label:csi_chan0.csi_chan0_port0
+arducam_csi_in0	common/tegra194-camera-dcpilot-arducam.dtsi	/^						arducam_csi_in0: endpoint@0 {$/;"	l	label:csi_chan0.csi_chan0_port0
+arducam_csi_in1	common/tegra194-camera-arducam.dtsi	/^						arducam_csi_in1: endpoint@2 {$/;"	l	label:csi_chan1.csi_chan1_port0
+arducam_csi_in1	common/tegra194-camera-dcpilot-arducam.dtsi	/^						arducam_csi_in1: endpoint@2 {$/;"	l	label:csi_chan1.csi_chan1_port0
+arducam_csi_in2	common/tegra194-camera-dcpilot-arducam.dtsi	/^						arducam_csi_in2: endpoint@4 {$/;"	l	label:csi_chan2.csi_chan2_port0
+arducam_csi_in3	common/tegra194-camera-dcpilot-arducam.dtsi	/^						arducam_csi_in3: endpoint@6 {$/;"	l	label:csi_chan3.csi_chan3_port0
+arducam_csi_in4	common/tegra194-camera-dcpilot-arducam.dtsi	/^						arducam_csi_in4: endpoint@8 {$/;"	l	label:csi_chan4.csi_chan4_port0
+arducam_csi_in5	common/tegra194-camera-dcpilot-arducam.dtsi	/^						arducam_csi_in5: endpoint@10 {$/;"	l	label:csi_chan5.csi_chan5_port0
+arducam_csi_out0	common/tegra194-camera-arducam.dtsi	/^						arducam_csi_out0: endpoint@1 {$/;"	l	label:csi_chan0.csi_chan0_port1
+arducam_csi_out0	common/tegra194-camera-dcpilot-arducam.dtsi	/^						arducam_csi_out0: endpoint@1 {$/;"	l	label:csi_chan0.csi_chan0_port1
+arducam_csi_out1	common/tegra194-camera-arducam.dtsi	/^						arducam_csi_out1: endpoint@3 {$/;"	l	label:csi_chan1.csi_chan1_port1
+arducam_csi_out1	common/tegra194-camera-dcpilot-arducam.dtsi	/^						arducam_csi_out1: endpoint@3 {$/;"	l	label:csi_chan1.csi_chan1_port1
+arducam_csi_out2	common/tegra194-camera-dcpilot-arducam.dtsi	/^						arducam_csi_out2: endpoint@5 {$/;"	l	label:csi_chan2.csi_chan2_port1
+arducam_csi_out3	common/tegra194-camera-dcpilot-arducam.dtsi	/^						arducam_csi_out3: endpoint@7 {$/;"	l	label:csi_chan3.csi_chan3_port1
+arducam_csi_out4	common/tegra194-camera-dcpilot-arducam.dtsi	/^						arducam_csi_out4: endpoint@9 {$/;"	l	label:csi_chan4.csi_chan4_port1
+arducam_csi_out5	common/tegra194-camera-dcpilot-arducam.dtsi	/^						arducam_csi_out5: endpoint@11 {$/;"	l	label:csi_chan5.csi_chan5_port1
+arducam_out0	common/tegra194-camera-dcpilot-arducam.dtsi	/^							arducam_out0: endpoint {$/;"	l	label:i2c_0.arducam_cam0
+arducam_out1	common/tegra194-camera-dcpilot-arducam.dtsi	/^							arducam_out1: endpoint {$/;"	l	label:i2c_1.arducam_cam1
+arducam_out2	common/tegra194-camera-dcpilot-arducam.dtsi	/^							arducam_out2: endpoint {$/;"	l	label:i2c_2.arducam_cam2
+arducam_out3	common/tegra194-camera-dcpilot-arducam.dtsi	/^							arducam_out3: endpoint {$/;"	l	label:i2c_3.arducam_cam3
+arducam_out4	common/tegra194-camera-dcpilot-arducam.dtsi	/^							arducam_out4: endpoint {$/;"	l	label:i2c_4.arducam_cam4
+arducam_out5	common/tegra194-camera-dcpilot-arducam.dtsi	/^							arducam_out5: endpoint {$/;"	l	label:i2c_5.arducam_cam5
+arducam_vi_in0	common/tegra194-camera-arducam.dtsi	/^					arducam_vi_in0: endpoint {$/;"	l	label:vi_port0
+arducam_vi_in0	common/tegra194-camera-dcpilot-arducam.dtsi	/^					arducam_vi_in0: endpoint {$/;"	l	label:vi_port0
+arducam_vi_in1	common/tegra194-camera-arducam.dtsi	/^					arducam_vi_in1: endpoint {$/;"	l	label:vi_port1
+arducam_vi_in1	common/tegra194-camera-dcpilot-arducam.dtsi	/^					arducam_vi_in1: endpoint {$/;"	l	label:vi_port1
+arducam_vi_in2	common/tegra194-camera-dcpilot-arducam.dtsi	/^					arducam_vi_in2: endpoint {$/;"	l	label:vi_port2
+arducam_vi_in3	common/tegra194-camera-dcpilot-arducam.dtsi	/^					arducam_vi_in3: endpoint {$/;"	l	label:vi_port3
+arducam_vi_in4	common/tegra194-camera-dcpilot-arducam.dtsi	/^					arducam_vi_in4: endpoint {$/;"	l	label:vi_port4
+arducam_vi_in5	common/tegra194-camera-dcpilot-arducam.dtsi	/^					arducam_vi_in5: endpoint {$/;"	l	label:vi_port5
+aux_alert	common/tegra194-thermal-p3668.dtsi	/^	aux_alert: aux-throttle-alert {$/;"	l
+cam_module0	common/tegra194-camera-dcpilot-arducam.dtsi	/^			cam_module0: module0 {$/;"	l	label:tcp
+cam_module0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			cam_module0: module0 {$/;"	l	label:tcp
+cam_module0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			cam_module0: module0 {$/;"	l	label:tcp
+cam_module0	common/tegra194-camera-ov9281-hexa.dtsi	/^			cam_module0: module0 {$/;"	l	label:tcp
+cam_module0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			cam_module0: module0 {$/;"	l	label:tcp
+cam_module0	common/tegra194-camera-rbpcv2-imx219.dtsi	/^			cam_module0: module0 {$/;"	l	label:tcp
+cam_module0_drivernode0	common/tegra194-camera-dcpilot-arducam.dtsi	/^				cam_module0_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module0
+cam_module0_drivernode0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				cam_module0_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module0
+cam_module0_drivernode0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				cam_module0_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module0
+cam_module0_drivernode0	common/tegra194-camera-ov9281-hexa.dtsi	/^				cam_module0_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module0
+cam_module0_drivernode0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				cam_module0_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module0
+cam_module0_drivernode0	common/tegra194-camera-rbpcv2-imx219.dtsi	/^				cam_module0_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module0
+cam_module0_drivernode1	common/tegra194-camera-dcpilot-arducam.dtsi	/^				cam_module0_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module0
+cam_module0_drivernode1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				cam_module0_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module0
+cam_module0_drivernode1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				cam_module0_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module0
+cam_module0_drivernode1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				cam_module0_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module0
+cam_module0_drivernode1	common/tegra194-camera-rbpcv2-imx219.dtsi	/^				cam_module0_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module0
+cam_module1	common/tegra194-camera-dcpilot-arducam.dtsi	/^			cam_module1: module1 {$/;"	l	label:tcp
+cam_module1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			cam_module1: module1 {$/;"	l	label:tcp
+cam_module1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			cam_module1: module1 {$/;"	l	label:tcp
+cam_module1	common/tegra194-camera-ov9281-hexa.dtsi	/^			cam_module1: module1 {$/;"	l	label:tcp
+cam_module1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			cam_module1: module1 {$/;"	l	label:tcp
+cam_module1	common/tegra194-camera-rbpcv2-imx219.dtsi	/^			cam_module1: module1 {$/;"	l	label:tcp
+cam_module1_drivernode0	common/tegra194-camera-dcpilot-arducam.dtsi	/^				cam_module1_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module1
+cam_module1_drivernode0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				cam_module1_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module1
+cam_module1_drivernode0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				cam_module1_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module1
+cam_module1_drivernode0	common/tegra194-camera-ov9281-hexa.dtsi	/^				cam_module1_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module1
+cam_module1_drivernode0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				cam_module1_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module1
+cam_module1_drivernode0	common/tegra194-camera-rbpcv2-imx219.dtsi	/^				cam_module1_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module1
+cam_module1_drivernode1	common/tegra194-camera-dcpilot-arducam.dtsi	/^				cam_module1_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module1
+cam_module1_drivernode1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				cam_module1_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module1
+cam_module1_drivernode1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				cam_module1_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module1
+cam_module1_drivernode1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				cam_module1_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module1
+cam_module1_drivernode1	common/tegra194-camera-rbpcv2-imx219.dtsi	/^				cam_module1_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module1
+cam_module2	common/tegra194-camera-dcpilot-arducam.dtsi	/^			cam_module2: module2 {$/;"	l	label:tcp
+cam_module2	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			cam_module2: module2 {$/;"	l	label:tcp
+cam_module2	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			cam_module2: module2 {$/;"	l	label:tcp
+cam_module2	common/tegra194-camera-ov9281-hexa.dtsi	/^			cam_module2: module2 {$/;"	l	label:tcp
+cam_module2	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			cam_module2: module2 {$/;"	l	label:tcp
+cam_module2_drivernode0	common/tegra194-camera-dcpilot-arducam.dtsi	/^				cam_module2_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module2
+cam_module2_drivernode0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				cam_module2_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module2
+cam_module2_drivernode0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				cam_module2_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module2
+cam_module2_drivernode0	common/tegra194-camera-ov9281-hexa.dtsi	/^				cam_module2_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module2
+cam_module2_drivernode0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				cam_module2_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module2
+cam_module2_drivernode1	common/tegra194-camera-dcpilot-arducam.dtsi	/^				cam_module2_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module2
+cam_module2_drivernode1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				cam_module2_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module2
+cam_module3	common/tegra194-camera-dcpilot-arducam.dtsi	/^			cam_module3: module3 {$/;"	l	label:tcp
+cam_module3	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			cam_module3: module3 {$/;"	l	label:tcp
+cam_module3	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			cam_module3: module3 {$/;"	l	label:tcp
+cam_module3	common/tegra194-camera-ov9281-hexa.dtsi	/^			cam_module3: module3 {$/;"	l	label:tcp
+cam_module3	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			cam_module3: module3 {$/;"	l	label:tcp
+cam_module3_drivernode0	common/tegra194-camera-dcpilot-arducam.dtsi	/^				cam_module3_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module3
+cam_module3_drivernode0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				cam_module3_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module3
+cam_module3_drivernode0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				cam_module3_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module3
+cam_module3_drivernode0	common/tegra194-camera-ov9281-hexa.dtsi	/^				cam_module3_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module3
+cam_module3_drivernode0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				cam_module3_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module3
+cam_module3_drivernode1	common/tegra194-camera-dcpilot-arducam.dtsi	/^				cam_module3_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module3
+cam_module3_drivernode1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				cam_module3_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module3
+cam_module4	common/tegra194-camera-dcpilot-arducam.dtsi	/^			cam_module4: module4 {$/;"	l	label:tcp
+cam_module4	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			cam_module4: module4 {$/;"	l	label:tcp
+cam_module4	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			cam_module4: module4 {$/;"	l	label:tcp
+cam_module4	common/tegra194-camera-ov9281-hexa.dtsi	/^			cam_module4: module4 {$/;"	l	label:tcp
+cam_module4	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			cam_module4: module4 {$/;"	l	label:tcp
+cam_module4_drivernode0	common/tegra194-camera-dcpilot-arducam.dtsi	/^				cam_module4_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module4
+cam_module4_drivernode0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				cam_module4_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module4
+cam_module4_drivernode0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				cam_module4_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module4
+cam_module4_drivernode0	common/tegra194-camera-ov9281-hexa.dtsi	/^				cam_module4_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module4
+cam_module4_drivernode0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				cam_module4_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module4
+cam_module4_drivernode1	common/tegra194-camera-dcpilot-arducam.dtsi	/^				cam_module4_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module4
+cam_module4_drivernode1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				cam_module4_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module4
+cam_module5	common/tegra194-camera-dcpilot-arducam.dtsi	/^			cam_module5: module5 {$/;"	l	label:tcp
+cam_module5	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			cam_module5: module5 {$/;"	l	label:tcp
+cam_module5	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			cam_module5: module5 {$/;"	l	label:tcp
+cam_module5	common/tegra194-camera-ov9281-hexa.dtsi	/^			cam_module5: module5 {$/;"	l	label:tcp
+cam_module5	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			cam_module5: module5 {$/;"	l	label:tcp
+cam_module5_drivernode0	common/tegra194-camera-dcpilot-arducam.dtsi	/^				cam_module5_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module5
+cam_module5_drivernode0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				cam_module5_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module5
+cam_module5_drivernode0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				cam_module5_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module5
+cam_module5_drivernode0	common/tegra194-camera-ov9281-hexa.dtsi	/^				cam_module5_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module5
+cam_module5_drivernode0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				cam_module5_drivernode0: drivernode0 {$/;"	l	label:tcp.cam_module5
+cam_module5_drivernode1	common/tegra194-camera-dcpilot-arducam.dtsi	/^				cam_module5_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module5
+cam_module5_drivernode1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				cam_module5_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module5
+cam_module5_drivernode1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				cam_module5_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module5
+cam_module5_drivernode1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				cam_module5_drivernode1: drivernode1 {$/;"	l	label:tcp.cam_module5
+cpu_alert	common/tegra194-thermal-p3668.dtsi	/^	cpu_alert: cpu-throttle-alert {$/;"	l
+csi_chan0	common/tegra194-camera-arducam.dtsi	/^			csi_chan0: channel@0 {$/;"	l
+csi_chan0	common/tegra194-camera-dcpilot-arducam.dtsi	/^			csi_chan0: channel@0 {$/;"	l
+csi_chan0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			csi_chan0: channel@0 {$/;"	l
+csi_chan0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			csi_chan0: channel@0 {$/;"	l
+csi_chan0	common/tegra194-camera-ov9281-hexa.dtsi	/^			csi_chan0: channel@0 {$/;"	l
+csi_chan0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			csi_chan0: channel@0 {$/;"	l
+csi_chan0	common/tegra194-camera-rbpcv2-imx219.dtsi	/^			csi_chan0: channel@0 {$/;"	l
+csi_chan0_port0	common/tegra194-camera-arducam.dtsi	/^					csi_chan0_port0: port@0 {$/;"	l	label:csi_chan0
+csi_chan0_port0	common/tegra194-camera-dcpilot-arducam.dtsi	/^					csi_chan0_port0: port@0 {$/;"	l	label:csi_chan0
+csi_chan0_port0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					csi_chan0_port0: port@0 {$/;"	l	label:csi_chan0
+csi_chan0_port0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					csi_chan0_port0: port@0 {$/;"	l	label:csi_chan0
+csi_chan0_port0	common/tegra194-camera-ov9281-hexa.dtsi	/^					csi_chan0_port0: port@0 {$/;"	l	label:csi_chan0
+csi_chan0_port0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					csi_chan0_port0: port@0 {$/;"	l	label:csi_chan0
+csi_chan0_port0	common/tegra194-camera-rbpcv2-imx219.dtsi	/^					csi_chan0_port0: port@0 {$/;"	l	label:csi_chan0
+csi_chan0_port1	common/tegra194-camera-arducam.dtsi	/^					csi_chan0_port1: port@1 {$/;"	l	label:csi_chan0
+csi_chan0_port1	common/tegra194-camera-dcpilot-arducam.dtsi	/^					csi_chan0_port1: port@1 {$/;"	l	label:csi_chan0
+csi_chan0_port1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					csi_chan0_port1: port@1 {$/;"	l	label:csi_chan0
+csi_chan0_port1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					csi_chan0_port1: port@1 {$/;"	l	label:csi_chan0
+csi_chan0_port1	common/tegra194-camera-ov9281-hexa.dtsi	/^					csi_chan0_port1: port@1 {$/;"	l	label:csi_chan0
+csi_chan0_port1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					csi_chan0_port1: port@1 {$/;"	l	label:csi_chan0
+csi_chan0_port1	common/tegra194-camera-rbpcv2-imx219.dtsi	/^					csi_chan0_port1: port@1 {$/;"	l	label:csi_chan0
+csi_chan1	common/tegra194-camera-arducam.dtsi	/^			csi_chan1: channel@1 {$/;"	l
+csi_chan1	common/tegra194-camera-dcpilot-arducam.dtsi	/^			csi_chan1: channel@1 {$/;"	l
+csi_chan1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			csi_chan1: channel@1 {$/;"	l
+csi_chan1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			csi_chan1: channel@1 {$/;"	l
+csi_chan1	common/tegra194-camera-ov9281-hexa.dtsi	/^			csi_chan1: channel@1 {$/;"	l
+csi_chan1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			csi_chan1: channel@1 {$/;"	l
+csi_chan1	common/tegra194-camera-rbpcv2-imx219.dtsi	/^			csi_chan1: channel@1 {$/;"	l
+csi_chan1_port0	common/tegra194-camera-arducam.dtsi	/^					csi_chan1_port0: port@0 {$/;"	l	label:csi_chan1
+csi_chan1_port0	common/tegra194-camera-dcpilot-arducam.dtsi	/^					csi_chan1_port0: port@0 {$/;"	l	label:csi_chan1
+csi_chan1_port0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					csi_chan1_port0: port@0 {$/;"	l	label:csi_chan1
+csi_chan1_port0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					csi_chan1_port0: port@0 {$/;"	l	label:csi_chan1
+csi_chan1_port0	common/tegra194-camera-ov9281-hexa.dtsi	/^					csi_chan1_port0: port@0 {$/;"	l	label:csi_chan1
+csi_chan1_port0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					csi_chan1_port0: port@0 {$/;"	l	label:csi_chan1
+csi_chan1_port0	common/tegra194-camera-rbpcv2-imx219.dtsi	/^					csi_chan1_port0: port@0 {$/;"	l	label:csi_chan1
+csi_chan1_port1	common/tegra194-camera-arducam.dtsi	/^					csi_chan1_port1: port@1 {$/;"	l	label:csi_chan1
+csi_chan1_port1	common/tegra194-camera-dcpilot-arducam.dtsi	/^					csi_chan1_port1: port@1 {$/;"	l	label:csi_chan1
+csi_chan1_port1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					csi_chan1_port1: port@1 {$/;"	l	label:csi_chan1
+csi_chan1_port1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					csi_chan1_port1: port@1 {$/;"	l	label:csi_chan1
+csi_chan1_port1	common/tegra194-camera-ov9281-hexa.dtsi	/^					csi_chan1_port1: port@1 {$/;"	l	label:csi_chan1
+csi_chan1_port1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					csi_chan1_port1: port@1 {$/;"	l	label:csi_chan1
+csi_chan1_port1	common/tegra194-camera-rbpcv2-imx219.dtsi	/^					csi_chan1_port1: port@1 {$/;"	l	label:csi_chan1
+csi_chan2	common/tegra194-camera-dcpilot-arducam.dtsi	/^			csi_chan2: channel@2 {$/;"	l
+csi_chan2	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			csi_chan2: channel@2 {$/;"	l
+csi_chan2	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			csi_chan2: channel@2 {$/;"	l
+csi_chan2	common/tegra194-camera-ov9281-hexa.dtsi	/^			csi_chan2: channel@2 {$/;"	l
+csi_chan2	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			csi_chan2: channel@2 {$/;"	l
+csi_chan2_port0	common/tegra194-camera-dcpilot-arducam.dtsi	/^					csi_chan2_port0: port@0 {$/;"	l	label:csi_chan2
+csi_chan2_port0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					csi_chan2_port0: port@0 {$/;"	l	label:csi_chan2
+csi_chan2_port0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					csi_chan2_port0: port@0 {$/;"	l	label:csi_chan2
+csi_chan2_port0	common/tegra194-camera-ov9281-hexa.dtsi	/^					csi_chan2_port0: port@0 {$/;"	l	label:csi_chan2
+csi_chan2_port0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					csi_chan2_port0: port@0 {$/;"	l	label:csi_chan2
+csi_chan2_port1	common/tegra194-camera-dcpilot-arducam.dtsi	/^					csi_chan2_port1: port@1 {$/;"	l	label:csi_chan2
+csi_chan2_port1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					csi_chan2_port1: port@1 {$/;"	l	label:csi_chan2
+csi_chan2_port1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					csi_chan2_port1: port@1 {$/;"	l	label:csi_chan2
+csi_chan2_port1	common/tegra194-camera-ov9281-hexa.dtsi	/^					csi_chan2_port1: port@1 {$/;"	l	label:csi_chan2
+csi_chan2_port1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					csi_chan2_port1: port@1 {$/;"	l	label:csi_chan2
+csi_chan3	common/tegra194-camera-dcpilot-arducam.dtsi	/^			csi_chan3: channel@3 {$/;"	l
+csi_chan3	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			csi_chan3: channel@3 {$/;"	l
+csi_chan3	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			csi_chan3: channel@3 {$/;"	l
+csi_chan3	common/tegra194-camera-ov9281-hexa.dtsi	/^			csi_chan3: channel@3 {$/;"	l
+csi_chan3	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			csi_chan3: channel@3 {$/;"	l
+csi_chan3_port0	common/tegra194-camera-dcpilot-arducam.dtsi	/^					csi_chan3_port0: port@0 {$/;"	l	label:csi_chan3
+csi_chan3_port0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					csi_chan3_port0: port@0 {$/;"	l	label:csi_chan3
+csi_chan3_port0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					csi_chan3_port0: port@0 {$/;"	l	label:csi_chan3
+csi_chan3_port0	common/tegra194-camera-ov9281-hexa.dtsi	/^					csi_chan3_port0: port@0 {$/;"	l	label:csi_chan3
+csi_chan3_port0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					csi_chan3_port0: port@0 {$/;"	l	label:csi_chan3
+csi_chan3_port1	common/tegra194-camera-dcpilot-arducam.dtsi	/^					csi_chan3_port1: port@1 {$/;"	l	label:csi_chan3
+csi_chan3_port1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					csi_chan3_port1: port@1 {$/;"	l	label:csi_chan3
+csi_chan3_port1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					csi_chan3_port1: port@1 {$/;"	l	label:csi_chan3
+csi_chan3_port1	common/tegra194-camera-ov9281-hexa.dtsi	/^					csi_chan3_port1: port@1 {$/;"	l	label:csi_chan3
+csi_chan3_port1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					csi_chan3_port1: port@1 {$/;"	l	label:csi_chan3
+csi_chan4	common/tegra194-camera-dcpilot-arducam.dtsi	/^			csi_chan4: channel@4 {$/;"	l
+csi_chan4	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			csi_chan4: channel@4 {$/;"	l
+csi_chan4	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			csi_chan4: channel@4 {$/;"	l
+csi_chan4	common/tegra194-camera-ov9281-hexa.dtsi	/^			csi_chan4: channel@4 {$/;"	l
+csi_chan4	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			csi_chan4: channel@4 {$/;"	l
+csi_chan4_port0	common/tegra194-camera-dcpilot-arducam.dtsi	/^					csi_chan4_port0: port@0 {$/;"	l	label:csi_chan4
+csi_chan4_port0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					csi_chan4_port0: port@0 {$/;"	l	label:csi_chan4
+csi_chan4_port0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					csi_chan4_port0: port@0 {$/;"	l	label:csi_chan4
+csi_chan4_port0	common/tegra194-camera-ov9281-hexa.dtsi	/^					csi_chan4_port0: port@0 {$/;"	l	label:csi_chan4
+csi_chan4_port0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					csi_chan4_port0: port@0 {$/;"	l	label:csi_chan4
+csi_chan4_port1	common/tegra194-camera-dcpilot-arducam.dtsi	/^					csi_chan4_port1: port@1 {$/;"	l	label:csi_chan4
+csi_chan4_port1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					csi_chan4_port1: port@1 {$/;"	l	label:csi_chan4
+csi_chan4_port1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					csi_chan4_port1: port@1 {$/;"	l	label:csi_chan4
+csi_chan4_port1	common/tegra194-camera-ov9281-hexa.dtsi	/^					csi_chan4_port1: port@1 {$/;"	l	label:csi_chan4
+csi_chan4_port1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					csi_chan4_port1: port@1 {$/;"	l	label:csi_chan4
+csi_chan5	common/tegra194-camera-dcpilot-arducam.dtsi	/^			csi_chan5: channel@5 {$/;"	l
+csi_chan5	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			csi_chan5: channel@5 {$/;"	l
+csi_chan5	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			csi_chan5: channel@5 {$/;"	l
+csi_chan5	common/tegra194-camera-ov9281-hexa.dtsi	/^			csi_chan5: channel@5 {$/;"	l
+csi_chan5	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			csi_chan5: channel@5 {$/;"	l
+csi_chan5_port0	common/tegra194-camera-dcpilot-arducam.dtsi	/^					csi_chan5_port0: port@0 {$/;"	l	label:csi_chan5
+csi_chan5_port0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					csi_chan5_port0: port@0 {$/;"	l	label:csi_chan5
+csi_chan5_port0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					csi_chan5_port0: port@0 {$/;"	l	label:csi_chan5
+csi_chan5_port0	common/tegra194-camera-ov9281-hexa.dtsi	/^					csi_chan5_port0: port@0 {$/;"	l	label:csi_chan5
+csi_chan5_port0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					csi_chan5_port0: port@0 {$/;"	l	label:csi_chan5
+csi_chan5_port1	common/tegra194-camera-dcpilot-arducam.dtsi	/^					csi_chan5_port1: port@1 {$/;"	l	label:csi_chan5
+csi_chan5_port1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					csi_chan5_port1: port@1 {$/;"	l	label:csi_chan5
+csi_chan5_port1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					csi_chan5_port1: port@1 {$/;"	l	label:csi_chan5
+csi_chan5_port1	common/tegra194-camera-ov9281-hexa.dtsi	/^					csi_chan5_port1: port@1 {$/;"	l	label:csi_chan5
+csi_chan5_port1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					csi_chan5_port1: port@1 {$/;"	l	label:csi_chan5
+die_temp_thresh	common/tegra194-spmic-p3668.dtsi	/^				die_temp_thresh: hot-die {$/;"	l
+dpaux_default	common/tegra194-p3668-common.dtsi	/^			dpaux_default: pinmux@0 {$/;"	l
+dtb-y	Makefile	/^dtb-y := $(addprefix $(makefile-path)\/,$(dtb-y))$/;"	m
+dtb-y	Makefile	/^dtb-y :=$/;"	m
+dtbo-y	Makefile	/^dtbo-y := $(addprefix $(makefile-path)\/,$(dtbo-y))$/;"	m
+dtbo-y	Makefile	/^dtbo-y :=$/;"	m
+dummy_cool_dev	common/tegra194-spmic-p3668.dtsi	/^	dummy_cool_dev: dummy-cool-dev {$/;"	l
+gpu_alert	common/tegra194-thermal-p3668.dtsi	/^	gpu_alert: gpu-throttle-alert {$/;"	l
+hadron_imx412_csi_in0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^						hadron_imx412_csi_in0: endpoint@4 {$/;"	l	label:csi_chan2.csi_chan2_port0
+hadron_imx412_csi_in1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^						hadron_imx412_csi_in1: endpoint@6 {$/;"	l	label:csi_chan3.csi_chan3_port0
+hadron_imx412_csi_in2	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^						hadron_imx412_csi_in2: endpoint@8 {$/;"	l	label:csi_chan4.csi_chan4_port0
+hadron_imx412_csi_out0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^						hadron_imx412_csi_out0: endpoint@5 {$/;"	l	label:csi_chan2.csi_chan2_port1
+hadron_imx412_csi_out1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^						hadron_imx412_csi_out1: endpoint@7 {$/;"	l	label:csi_chan3.csi_chan3_port1
+hadron_imx412_csi_out2	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^						hadron_imx412_csi_out2: endpoint@9 {$/;"	l	label:csi_chan4.csi_chan4_port1
+hadron_imx412_out0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^							hadron_imx412_out0: endpoint {$/;"	l	label:i2c_2.imx412_cam2
+hadron_imx412_out1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^							hadron_imx412_out1: endpoint {$/;"	l	label:i2c_3.imx412_cam3
+hadron_imx412_out2	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^							hadron_imx412_out2: endpoint {$/;"	l	label:i2c_4.imx412_cam4
+hadron_imx412_vi_in0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					hadron_imx412_vi_in0: endpoint {$/;"	l	label:vi_port2
+hadron_imx412_vi_in1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					hadron_imx412_vi_in1: endpoint {$/;"	l	label:vi_port3
+hadron_imx412_vi_in2	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					hadron_imx412_vi_in2: endpoint {$/;"	l	label:vi_port4
+hdr40_i2c0	common/tegra194-p3668-common.dtsi	/^	hdr40_i2c0: i2c@c240000 {$/;"	l
+hdr40_i2c1	common/tegra194-p3668-common.dtsi	/^	hdr40_i2c1: i2c@31e0000 {$/;"	l
+hdr40_snd_link_i2s	common/tegra194-audio-p3668.dtsi	/^		hdr40_snd_link_i2s: nvidia,dai-link-5 {$/;"	l
+hdr40_vdd_3v3	common/tegra194-fixed-regulator-p3509-0000-a00.dtsi	/^		hdr40_vdd_3v3: p3509_vdd_3v3_cvb: regulator@101 {$/;"	l
+hdr40_vdd_5v0	common/tegra194-fixed-regulator-p3668.dtsi	/^		hdr40_vdd_5v0: battery_reg: regulator@0 {$/;"	l
+i2c_0	common/tegra194-camera-arducam.dtsi	/^		i2c_0:i2c@0 {$/;"	l
+i2c_0	common/tegra194-camera-dcpilot-arducam.dtsi	/^			i2c_0:i2c@0 {  \/*CSI B*\/$/;"	l
+i2c_0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			i2c_0: i2c@0 {				$/;"	l
+i2c_0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			i2c_0: i2c@0 {				$/;"	l
+i2c_0	common/tegra194-camera-ov9281-hexa.dtsi	/^			i2c_0: i2c@0 {	\/*CSI A*\/				$/;"	l
+i2c_0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			i2c_0: i2c@0 {				$/;"	l
+i2c_0	common/tegra194-camera-rbpcv2-imx219.dtsi	/^		i2c_0:i2c@0 {$/;"	l
+i2c_1	common/tegra194-camera-dcpilot-arducam.dtsi	/^			i2c_1:i2c@1 {  \/*CSI C*\/$/;"	l
+i2c_1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			i2c_1: i2c@1 {				$/;"	l
+i2c_1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			i2c_1: i2c@1 {				$/;"	l
+i2c_1	common/tegra194-camera-ov9281-hexa.dtsi	/^			i2c_1: i2c@1 {  \/*CSI C*\/				 	$/;"	l
+i2c_1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			i2c_1: i2c@1 {				$/;"	l
+i2c_1	common/tegra194-camera-rbpcv2-imx219.dtsi	/^		i2c_1: i2c@1 {$/;"	l
+i2c_2	common/tegra194-camera-dcpilot-arducam.dtsi	/^			i2c_2:i2c@2 {  \/*CSI B*\/$/;"	l
+i2c_2	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			i2c_2: i2c@2 {				$/;"	l
+i2c_2	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			i2c_2: i2c@2 {				$/;"	l
+i2c_2	common/tegra194-camera-ov9281-hexa.dtsi	/^			i2c_2: i2c@2 {	\/*CSI B*\/		$/;"	l
+i2c_2	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			i2c_2: i2c@2 {				$/;"	l
+i2c_3	common/tegra194-camera-dcpilot-arducam.dtsi	/^			i2c_3:i2c@3 { \/*CSI D*\/$/;"	l
+i2c_3	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			i2c_3: i2c@3 {$/;"	l
+i2c_3	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			i2c_3: i2c@3 {				$/;"	l
+i2c_3	common/tegra194-camera-ov9281-hexa.dtsi	/^			i2c_3: i2c@3 {	\/*CSI D*\/			$/;"	l
+i2c_3	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			i2c_3: i2c@3 {				$/;"	l
+i2c_4	common/tegra194-camera-dcpilot-arducam.dtsi	/^			i2c_4:i2c@4 { \/*CSI F*\/$/;"	l
+i2c_4	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			i2c_4: i2c@4 {		$/;"	l
+i2c_4	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			i2c_4: i2c@4 {				$/;"	l
+i2c_4	common/tegra194-camera-ov9281-hexa.dtsi	/^			i2c_4: i2c@4 {	\/*CSI F*\/				$/;"	l
+i2c_4	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			i2c_4: i2c@4 {				$/;"	l
+i2c_5	common/tegra194-camera-dcpilot-arducam.dtsi	/^			i2c_5:i2c@5 {  \/*CSI E*\/$/;"	l
+i2c_5	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^			i2c_5: i2c@5 {				$/;"	l
+i2c_5	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^			i2c_5: i2c@5 {				$/;"	l
+i2c_5	common/tegra194-camera-ov9281-hexa.dtsi	/^			i2c_5: i2c@5 {	\/*CSI E*\/		$/;"	l
+i2c_5	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^			i2c_5: i2c@5 {				$/;"	l
+imx219_cam0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				imx219_cam0: rbpcv2_imx219_a@10 {$/;"	l	label:i2c_0
+imx219_cam0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				imx219_cam0: rbpcv2_imx219_a@10 {$/;"	l	label:i2c_0
+imx219_cam0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				imx219_cam0: rbpcv2_imx219_a@10 {$/;"	l	label:i2c_0
+imx219_cam0	common/tegra194-camera-rbpcv2-imx219.dtsi	/^			imx219_cam0: rbpcv2_imx219_a@10 {$/;"	l	label:i2c_0
+imx219_cam1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				imx219_cam1: rbpcv2_imx219_c@10 {$/;"	l	label:i2c_1
+imx219_cam1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				imx219_cam1: rbpcv2_imx219_c@10 {$/;"	l	label:i2c_1
+imx219_cam1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				imx219_cam1: rbpcv2_imx219_c@10 {$/;"	l	label:i2c_1
+imx219_cam1	common/tegra194-camera-rbpcv2-imx219.dtsi	/^			imx219_cam1: rbpcv2_imx219_c@10 {$/;"	l	label:i2c_1
+imx219_cam2	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				imx219_cam2: rbpcv2_imx219_d@10 {$/;"	l	label:i2c_2
+imx219_cam3	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				imx219_cam3: rbpcv2_imx219_e@10 {$/;"	l	label:i2c_3
+imx219_cam4	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				imx219_cam4: rbpcv2_imx219_b@10 {$/;"	l	label:i2c_4
+imx219_cam5	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				imx219_cam5: rbpcv2_imx219_g@10 {$/;"	l	label:i2c_5
+imx219_cam5	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				imx219_cam5: rbpcv2_imx219_g@10 {$/;"	l	label:i2c_5
+imx219_cam5	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				imx219_cam5: rbpcv2_imx219_g@10 {$/;"	l	label:i2c_5
+imx412_cam2	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				imx412_cam2: hadron_imx412_d@10 {$/;"	l	label:i2c_2
+imx412_cam3	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				imx412_cam3: hadron_imx412_e@10 {$/;"	l	label:i2c_3
+imx412_cam4	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				imx412_cam4: hadron_imx412_b@10 {$/;"	l	label:i2c_4
+imx477_cam0	common/tegra194-camera-rbpcv3-imx477.dtsi	/^			imx477_cam0: rbpcv3_imx477_a@1a {$/;"	l
+imx477_cam1	common/tegra194-camera-rbpcv3-imx477.dtsi	/^			imx477_cam1: rbpcv3_imx477_c@1a {$/;"	l
+imx477_cam2	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				imx477_cam2: rbpcv3_imx477_d@1a {$/;"	l	label:i2c_2
+imx477_cam3	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				imx477_cam3: rbpcv3_imx477_e@1a {$/;"	l	label:i2c_3
+imx477_cam4	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				imx477_cam4: rbpcv3_imx477_b@1a {$/;"	l	label:i2c_4
+ina3221x_40	common/tegra194-powermon-p3668.dtsi	/^		ina3221x_40: ina3221x@40 {$/;"	l
+iopad_defaults	common/tegra194-p3668-common.dtsi	/^                 iopad_defaults: iopad-defaults {$/;"	l
+jetson_io_pinmux	tegra194-p3668-all-p3509-0000-hdr40.dts	/^			jetson_io_pinmux: exp-header-pinmux {$/;"	l
+jetson_io_pinmux	tegra194-p3668-all-p3509-0000-m2ke.dts	/^			jetson_io_pinmux: exp-header-pinmux {$/;"	l
+makefile-path	Makefile	/^makefile-path := platform\/t19x\/jakku\/kernel-dts$/;"	m
+old-dtb	Makefile	/^old-dtb := $(dtb-y)$/;"	m
+old-dtbo	Makefile	/^old-dtbo := $(dtbo-y)$/;"	m
+ov9281_cam0	common/tegra194-camera-ov9281-hexa.dtsi	/^				ov9281_cam0: ov9281_a@60 {$/;"	l	label:i2c_0
+ov9281_cam1	common/tegra194-camera-ov9281-hexa.dtsi	/^				ov9281_cam1: ov9281_c@60 {$/;"	l	label:i2c_1
+ov9281_cam2	common/tegra194-camera-ov9281-hexa.dtsi	/^				ov9281_cam2: ov9281_d@60 {$/;"	l	label:i2c_2
+ov9281_cam3	common/tegra194-camera-ov9281-hexa.dtsi	/^				ov9281_cam3: ov9281_e@60 {$/;"	l	label:i2c_3
+ov9281_cam4	common/tegra194-camera-ov9281-hexa.dtsi	/^				ov9281_cam4: ov9281_b@60 {$/;"	l	label:i2c_4
+ov9281_cam5	common/tegra194-camera-ov9281-hexa.dtsi	/^				ov9281_cam5: ov9281_g@60 {$/;"	l	label:i2c_5
+ov9281_csi_in0	common/tegra194-camera-ov9281-hexa.dtsi	/^						ov9281_csi_in0: endpoint@0 {$/;"	l	label:csi_chan0.csi_chan0_port0
+ov9281_csi_in1	common/tegra194-camera-ov9281-hexa.dtsi	/^						ov9281_csi_in1: endpoint@2 {$/;"	l	label:csi_chan1.csi_chan1_port0
+ov9281_csi_in2	common/tegra194-camera-ov9281-hexa.dtsi	/^						ov9281_csi_in2: endpoint@4 {$/;"	l	label:csi_chan2.csi_chan2_port0
+ov9281_csi_in3	common/tegra194-camera-ov9281-hexa.dtsi	/^						ov9281_csi_in3: endpoint@6 {$/;"	l	label:csi_chan3.csi_chan3_port0
+ov9281_csi_in4	common/tegra194-camera-ov9281-hexa.dtsi	/^						ov9281_csi_in4: endpoint@8 {$/;"	l	label:csi_chan4.csi_chan4_port0
+ov9281_csi_in5	common/tegra194-camera-ov9281-hexa.dtsi	/^						ov9281_csi_in5: endpoint@10 {$/;"	l	label:csi_chan5.csi_chan5_port0
+ov9281_csi_out0	common/tegra194-camera-ov9281-hexa.dtsi	/^						ov9281_csi_out0: endpoint@1 {$/;"	l	label:csi_chan0.csi_chan0_port1
+ov9281_csi_out1	common/tegra194-camera-ov9281-hexa.dtsi	/^						ov9281_csi_out1: endpoint@3 {$/;"	l	label:csi_chan1.csi_chan1_port1
+ov9281_csi_out2	common/tegra194-camera-ov9281-hexa.dtsi	/^						ov9281_csi_out2: endpoint@5 {$/;"	l	label:csi_chan2.csi_chan2_port1
+ov9281_csi_out3	common/tegra194-camera-ov9281-hexa.dtsi	/^						ov9281_csi_out3: endpoint@7 {$/;"	l	label:csi_chan3.csi_chan3_port1
+ov9281_csi_out4	common/tegra194-camera-ov9281-hexa.dtsi	/^						ov9281_csi_out4: endpoint@9 {$/;"	l	label:csi_chan4.csi_chan4_port1
+ov9281_csi_out5	common/tegra194-camera-ov9281-hexa.dtsi	/^						ov9281_csi_out5: endpoint@11 {$/;"	l	label:csi_chan5.csi_chan5_port1
+ov9281_out0	common/tegra194-camera-ov9281-hexa.dtsi	/^							ov9281_out0: endpoint {$/;"	l	label:i2c_0.ov9281_cam0
+ov9281_out1	common/tegra194-camera-ov9281-hexa.dtsi	/^							ov9281_out1: endpoint {$/;"	l	label:i2c_1.ov9281_cam1
+ov9281_out2	common/tegra194-camera-ov9281-hexa.dtsi	/^							ov9281_out2: endpoint {$/;"	l	label:i2c_2.ov9281_cam2
+ov9281_out3	common/tegra194-camera-ov9281-hexa.dtsi	/^							ov9281_out3: endpoint {$/;"	l	label:i2c_3.ov9281_cam3
+ov9281_out4	common/tegra194-camera-ov9281-hexa.dtsi	/^							ov9281_out4: endpoint {$/;"	l	label:i2c_4.ov9281_cam4
+ov9281_out5	common/tegra194-camera-ov9281-hexa.dtsi	/^							ov9281_out5: endpoint {$/;"	l	label:i2c_5.ov9281_cam5
+ov9281_vi_in0	common/tegra194-camera-ov9281-hexa.dtsi	/^					ov9281_vi_in0: endpoint {$/;"	l	label:vi_port0
+ov9281_vi_in1	common/tegra194-camera-ov9281-hexa.dtsi	/^					ov9281_vi_in1: endpoint {$/;"	l	label:vi_port1
+ov9281_vi_in2	common/tegra194-camera-ov9281-hexa.dtsi	/^					ov9281_vi_in2: endpoint {$/;"	l	label:vi_port2
+ov9281_vi_in3	common/tegra194-camera-ov9281-hexa.dtsi	/^					ov9281_vi_in3: endpoint {$/;"	l	label:vi_port3
+ov9281_vi_in4	common/tegra194-camera-ov9281-hexa.dtsi	/^					ov9281_vi_in4: endpoint {$/;"	l	label:vi_port4
+ov9281_vi_in5	common/tegra194-camera-ov9281-hexa.dtsi	/^					ov9281_vi_in5: endpoint {$/;"	l	label:vi_port5
+p3509_avdd_cam_2v8	common/tegra194-fixed-regulator-p3509-0000-a00.dtsi	/^		p3509_avdd_cam_2v8: regulator@107 {$/;"	l
+p3509_vdd_1v8_cvb	common/tegra194-fixed-regulator-p3509-0000-a00.dtsi	/^		p3509_vdd_1v8_cvb: regulator@102 {$/;"	l
+p3509_vdd_epb_1v0	common/tegra194-fixed-regulator-p3509-0000-a00.dtsi	/^		p3509_vdd_epb_1v0: regulator@105 {$/;"	l
+p3509_vdd_fan	common/tegra194-fixed-regulator-p3509-0000-a00.dtsi	/^		p3509_vdd_fan: regulator@111 {$/;"	l
+p3509_vdd_hdmi_5v0	common/tegra194-fixed-regulator-p3509-0000-a00.dtsi	/^		p3509_vdd_hdmi_5v0: regulator@112 {$/;"	l
+p3509_vdd_sys_en	common/tegra194-fixed-regulator-p3509-0000-a00.dtsi	/^		p3509_vdd_sys_en: regulator@113 {$/;"	l
+p3668_spmic	common/tegra194-spmic-p3668.dtsi	/^		p3668_spmic: spmic@3c {$/;"	l
+p3668_spmic_ldo0	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_ldo0: ldo0 {$/;"	l
+p3668_spmic_ldo1	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_ldo1: ldo1 {$/;"	l
+p3668_spmic_ldo2	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_ldo2: ldo2 {$/;"	l
+p3668_spmic_ldo3	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_ldo3: ldo3 {$/;"	l
+p3668_spmic_ldo4	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_ldo4: ldo4 {$/;"	l
+p3668_spmic_ldo5	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_ldo5: ldo5 {$/;"	l
+p3668_spmic_ldo6	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_ldo6: ldo6 {$/;"	l
+p3668_spmic_ldo7	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_ldo7: ldo7 {$/;"	l
+p3668_spmic_ldo8	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_ldo8: ldo8 {$/;"	l
+p3668_spmic_sd0	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_sd0: sd0 {$/;"	l
+p3668_spmic_sd1	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_sd1: sd1 {$/;"	l
+p3668_spmic_sd2	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_sd2: sd2 {$/;"	l
+p3668_spmic_sd3	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_sd3: sd3 {$/;"	l
+p3668_spmic_sd4	common/tegra194-spmic-p3668.dtsi	/^				p3668_spmic_sd4: sd4 {$/;"	l
+p3668_spmic_wdt	common/tegra194-spmic-p3668.dtsi	/^			p3668_spmic_wdt: watchdog {$/;"	l	label:p3668_spmic
+p3668_vdd_1v8_sd	common/tegra194-fixed-regulator-p3668.dtsi	/^		p3668_vdd_1v8_sd: regulator@104 {$/;"	l
+p3668_vdd_sdmmc1_sw	common/tegra194-fixed-regulator-p3668.dtsi	/^		p3668_vdd_sdmmc1_sw: regulator@106 {$/;"	l
+phy0	common/tegra194-p3668-common.dtsi	/^                        phy0: ethernet-phy@0 {$/;"	l
+rbpcv2_imx219_csi_in0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^						rbpcv2_imx219_csi_in0: endpoint@0 {$/;"	l	label:csi_chan0.csi_chan0_port0
+rbpcv2_imx219_csi_in0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^						rbpcv2_imx219_csi_in0: endpoint@0 {$/;"	l	label:csi_chan0.csi_chan0_port0
+rbpcv2_imx219_csi_in0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^						rbpcv2_imx219_csi_in0: endpoint@0 {$/;"	l	label:csi_chan0.csi_chan0_port0
+rbpcv2_imx219_csi_in0	common/tegra194-camera-rbpcv2-imx219.dtsi	/^						rbpcv2_imx219_csi_in0: endpoint@0 {$/;"	l	label:csi_chan0.csi_chan0_port0
+rbpcv2_imx219_csi_in1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^						rbpcv2_imx219_csi_in1: endpoint@2 {$/;"	l	label:csi_chan1.csi_chan1_port0
+rbpcv2_imx219_csi_in1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^						rbpcv2_imx219_csi_in1: endpoint@2 {$/;"	l	label:csi_chan1.csi_chan1_port0
+rbpcv2_imx219_csi_in1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^						rbpcv2_imx219_csi_in1: endpoint@2 {$/;"	l	label:csi_chan1.csi_chan1_port0
+rbpcv2_imx219_csi_in1	common/tegra194-camera-rbpcv2-imx219.dtsi	/^						rbpcv2_imx219_csi_in1: endpoint@2 {$/;"	l	label:csi_chan1.csi_chan1_port0
+rbpcv2_imx219_csi_in2	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^						rbpcv2_imx219_csi_in2: endpoint@4 {$/;"	l	label:csi_chan2.csi_chan2_port0
+rbpcv2_imx219_csi_in3	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^						rbpcv2_imx219_csi_in3: endpoint@6 {$/;"	l	label:csi_chan3.csi_chan3_port0
+rbpcv2_imx219_csi_in4	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^						rbpcv2_imx219_csi_in4: endpoint@8 {$/;"	l	label:csi_chan4.csi_chan4_port0
+rbpcv2_imx219_csi_in5	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^						rbpcv2_imx219_csi_in5: endpoint@10 {$/;"	l	label:csi_chan5.csi_chan5_port0
+rbpcv2_imx219_csi_in5	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^						rbpcv2_imx219_csi_in5: endpoint@10 {$/;"	l	label:csi_chan5.csi_chan5_port0
+rbpcv2_imx219_csi_in5	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^						rbpcv2_imx219_csi_in5: endpoint@10 {$/;"	l	label:csi_chan5.csi_chan5_port0
+rbpcv2_imx219_csi_out0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^						rbpcv2_imx219_csi_out0: endpoint@1 {$/;"	l	label:csi_chan0.csi_chan0_port1
+rbpcv2_imx219_csi_out0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^						rbpcv2_imx219_csi_out0: endpoint@1 {$/;"	l	label:csi_chan0.csi_chan0_port1
+rbpcv2_imx219_csi_out0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^						rbpcv2_imx219_csi_out0: endpoint@1 {$/;"	l	label:csi_chan0.csi_chan0_port1
+rbpcv2_imx219_csi_out0	common/tegra194-camera-rbpcv2-imx219.dtsi	/^						rbpcv2_imx219_csi_out0: endpoint@1 {$/;"	l	label:csi_chan0.csi_chan0_port1
+rbpcv2_imx219_csi_out1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^						rbpcv2_imx219_csi_out1: endpoint@3 {$/;"	l	label:csi_chan1.csi_chan1_port1
+rbpcv2_imx219_csi_out1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^						rbpcv2_imx219_csi_out1: endpoint@3 {$/;"	l	label:csi_chan1.csi_chan1_port1
+rbpcv2_imx219_csi_out1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^						rbpcv2_imx219_csi_out1: endpoint@3 {$/;"	l	label:csi_chan1.csi_chan1_port1
+rbpcv2_imx219_csi_out1	common/tegra194-camera-rbpcv2-imx219.dtsi	/^						rbpcv2_imx219_csi_out1: endpoint@3 {$/;"	l	label:csi_chan1.csi_chan1_port1
+rbpcv2_imx219_csi_out2	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^						rbpcv2_imx219_csi_out2: endpoint@5 {$/;"	l	label:csi_chan2.csi_chan2_port1
+rbpcv2_imx219_csi_out3	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^						rbpcv2_imx219_csi_out3: endpoint@7 {$/;"	l	label:csi_chan3.csi_chan3_port1
+rbpcv2_imx219_csi_out4	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^						rbpcv2_imx219_csi_out4: endpoint@9 {$/;"	l	label:csi_chan4.csi_chan4_port1
+rbpcv2_imx219_csi_out5	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^						rbpcv2_imx219_csi_out5: endpoint@11 {$/;"	l	label:csi_chan5.csi_chan5_port1
+rbpcv2_imx219_csi_out5	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^						rbpcv2_imx219_csi_out5: endpoint@11 {$/;"	l	label:csi_chan5.csi_chan5_port1
+rbpcv2_imx219_csi_out5	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^						rbpcv2_imx219_csi_out5: endpoint@11 {$/;"	l	label:csi_chan5.csi_chan5_port1
+rbpcv2_imx219_out0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^							rbpcv2_imx219_out0: endpoint {$/;"	l	label:i2c_0.imx219_cam0
+rbpcv2_imx219_out0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^							rbpcv2_imx219_out0: endpoint {$/;"	l	label:i2c_0.imx219_cam0
+rbpcv2_imx219_out0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^							rbpcv2_imx219_out0: endpoint {$/;"	l	label:i2c_0.imx219_cam0
+rbpcv2_imx219_out0	common/tegra194-camera-rbpcv2-imx219.dtsi	/^						rbpcv2_imx219_out0: endpoint {$/;"	l	label:i2c_0
+rbpcv2_imx219_out1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^							rbpcv2_imx219_out1: endpoint {$/;"	l	label:i2c_1.imx219_cam1
+rbpcv2_imx219_out1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^							rbpcv2_imx219_out1: endpoint {$/;"	l	label:i2c_1.imx219_cam1
+rbpcv2_imx219_out1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^							rbpcv2_imx219_out1: endpoint {$/;"	l	label:i2c_1.imx219_cam1
+rbpcv2_imx219_out1	common/tegra194-camera-rbpcv2-imx219.dtsi	/^						rbpcv2_imx219_out1: endpoint {$/;"	l	label:i2c_1
+rbpcv2_imx219_out2	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^							rbpcv2_imx219_out2: endpoint {$/;"	l	label:i2c_2.imx219_cam2
+rbpcv2_imx219_out3	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^							rbpcv2_imx219_out3: endpoint {$/;"	l	label:i2c_3.imx219_cam3
+rbpcv2_imx219_out4	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^							rbpcv2_imx219_out4: endpoint {$/;"	l	label:i2c_4.imx219_cam4
+rbpcv2_imx219_out5	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^							rbpcv2_imx219_out5: endpoint {$/;"	l	label:i2c_5.imx219_cam5
+rbpcv2_imx219_out5	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^							rbpcv2_imx219_out5: endpoint {$/;"	l	label:i2c_5.imx219_cam5
+rbpcv2_imx219_out5	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^							rbpcv2_imx219_out5: endpoint {$/;"	l	label:i2c_5.imx219_cam5
+rbpcv2_imx219_vi_in0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					rbpcv2_imx219_vi_in0: endpoint {$/;"	l	label:vi_port0
+rbpcv2_imx219_vi_in0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					rbpcv2_imx219_vi_in0: endpoint {$/;"	l	label:vi_port0
+rbpcv2_imx219_vi_in0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					rbpcv2_imx219_vi_in0: endpoint {$/;"	l	label:vi_port0
+rbpcv2_imx219_vi_in0	common/tegra194-camera-rbpcv2-imx219.dtsi	/^					rbpcv2_imx219_vi_in0: endpoint {$/;"	l	label:vi_port0
+rbpcv2_imx219_vi_in1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					rbpcv2_imx219_vi_in1: endpoint {$/;"	l	label:vi_port1
+rbpcv2_imx219_vi_in1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					rbpcv2_imx219_vi_in1: endpoint {$/;"	l	label:vi_port1
+rbpcv2_imx219_vi_in1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					rbpcv2_imx219_vi_in1: endpoint {$/;"	l	label:vi_port1
+rbpcv2_imx219_vi_in1	common/tegra194-camera-rbpcv2-imx219.dtsi	/^					rbpcv2_imx219_vi_in1: endpoint {$/;"	l	label:vi_port1
+rbpcv2_imx219_vi_in2	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					rbpcv2_imx219_vi_in2: endpoint {$/;"	l	label:vi_port2
+rbpcv2_imx219_vi_in3	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					rbpcv2_imx219_vi_in3: endpoint {$/;"	l	label:vi_port3
+rbpcv2_imx219_vi_in4	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					rbpcv2_imx219_vi_in4: endpoint {$/;"	l	label:vi_port4
+rbpcv2_imx219_vi_in5	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^					rbpcv2_imx219_vi_in5: endpoint {$/;"	l	label:vi_port5
+rbpcv2_imx219_vi_in5	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					rbpcv2_imx219_vi_in5: endpoint {$/;"	l	label:vi_port5
+rbpcv2_imx219_vi_in5	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^					rbpcv2_imx219_vi_in5: endpoint {$/;"	l	label:vi_port5
+rbpcv3_imx477_csi_in0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^						rbpcv3_imx477_csi_in0: endpoint@4 {$/;"	l	label:csi_chan2.csi_chan2_port0
+rbpcv3_imx477_csi_in0	common/tegra194-camera-rbpcv3-imx477.dtsi	/^						rbpcv3_imx477_csi_in0: endpoint@0 {$/;"	l
+rbpcv3_imx477_csi_in1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^						rbpcv3_imx477_csi_in1: endpoint@6 {$/;"	l	label:csi_chan3.csi_chan3_port0
+rbpcv3_imx477_csi_in1	common/tegra194-camera-rbpcv3-imx477.dtsi	/^						rbpcv3_imx477_csi_in1: endpoint@2 {$/;"	l
+rbpcv3_imx477_csi_in2	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^						rbpcv3_imx477_csi_in2: endpoint@8 {$/;"	l	label:csi_chan4.csi_chan4_port0
+rbpcv3_imx477_csi_out0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^						rbpcv3_imx477_csi_out0: endpoint@5 {$/;"	l	label:csi_chan2.csi_chan2_port1
+rbpcv3_imx477_csi_out0	common/tegra194-camera-rbpcv3-imx477.dtsi	/^						rbpcv3_imx477_csi_out0: endpoint@1 {$/;"	l
+rbpcv3_imx477_csi_out1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^						rbpcv3_imx477_csi_out1: endpoint@7 {$/;"	l	label:csi_chan3.csi_chan3_port1
+rbpcv3_imx477_csi_out1	common/tegra194-camera-rbpcv3-imx477.dtsi	/^						rbpcv3_imx477_csi_out1: endpoint@3 {$/;"	l
+rbpcv3_imx477_csi_out2	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^						rbpcv3_imx477_csi_out2: endpoint@9 {$/;"	l	label:csi_chan4.csi_chan4_port1
+rbpcv3_imx477_dual_out0	common/tegra194-camera-rbpcv3-imx477.dtsi	/^						rbpcv3_imx477_dual_out0: endpoint {$/;"	l	label:imx477_cam0
+rbpcv3_imx477_out0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^							rbpcv3_imx477_out0: endpoint {$/;"	l	label:i2c_2.imx477_cam2
+rbpcv3_imx477_out1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^							rbpcv3_imx477_out1: endpoint {$/;"	l	label:i2c_3.imx477_cam3
+rbpcv3_imx477_out1	common/tegra194-camera-rbpcv3-imx477.dtsi	/^						rbpcv3_imx477_out1: endpoint {$/;"	l	label:imx477_cam1
+rbpcv3_imx477_out2	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^							rbpcv3_imx477_out2: endpoint {$/;"	l	label:i2c_4.imx477_cam4
+rbpcv3_imx477_vi_in0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					rbpcv3_imx477_vi_in0: endpoint {$/;"	l	label:vi_port2
+rbpcv3_imx477_vi_in0	common/tegra194-camera-rbpcv3-imx477.dtsi	/^					rbpcv3_imx477_vi_in0: endpoint {$/;"	l
+rbpcv3_imx477_vi_in1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					rbpcv3_imx477_vi_in1: endpoint {$/;"	l	label:vi_port3
+rbpcv3_imx477_vi_in1	common/tegra194-camera-rbpcv3-imx477.dtsi	/^					rbpcv3_imx477_vi_in1: endpoint {$/;"	l
+rbpcv3_imx477_vi_in2	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^					rbpcv3_imx477_vi_in2: endpoint {$/;"	l	label:vi_port4
+sdhci_emmc	common/tegra194-p3668-common.dtsi	/^	sdhci_emmc: sdhci@3460000 {$/;"	l
+sdhci_sd	common/tegra194-p3668-common.dtsi	/^	sdhci_sd: sdhci@3400000 {$/;"	l
+sdmmc3	common/tegra194-p3668-common.dtsi	/^	sdmmc3: sdhci@3440000 {$/;"	l
+spmic_default	common/tegra194-spmic-p3668.dtsi	/^			spmic_default: pinmux@0 {$/;"	l	label:p3668_spmic
+tca6408_20	common/tegra194-camera-jakku-dcpilot-arducam.dtsi	/^		tca6408_20: tca6408@20 {$/;"	l
+tca6408_20	common/tegra194-camera-jakku-hexa-imx219-imx412.dtsi	/^		tca6408_20: tca6408@20 {$/;"	l
+tca6408_20	common/tegra194-camera-jakku-hexa-imx219-imx477.dtsi	/^		tca6408_20: tca6408@20 {$/;"	l
+tca6408_20	common/tegra194-camera-jakku-ov9281-hexa.dtsi	/^		tca6408_20: tca6408@20 {$/;"	l
+tca6408_20	common/tegra194-camera-jakku-rbpcv2-hexa-imx219.dtsi	/^		tca6408_20: tca6408@20 {$/;"	l
+tca9548_70	common/tegra194-camera-jakku-dcpilot-arducam.dtsi	/^		tca9548_70: tca9548@70 {$/;"	l
+tca9548_70	common/tegra194-camera-jakku-hexa-imx219-imx412.dtsi	/^		tca9548_70: tca9548@70 {$/;"	l
+tca9548_70	common/tegra194-camera-jakku-hexa-imx219-imx477.dtsi	/^		tca9548_70: tca9548@70 {$/;"	l
+tca9548_70	common/tegra194-camera-jakku-ov9281-hexa.dtsi	/^		tca9548_70: tca9548@70 {$/;"	l
+tca9548_70	common/tegra194-camera-jakku-rbpcv2-hexa-imx219.dtsi	/^		tca9548_70: tca9548@70 {$/;"	l
+tcp	common/tegra194-camera-dcpilot-arducam.dtsi	/^	tcp: tegra-camera-platform {$/;"	l
+tcp	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^	tcp: tegra-camera-platform {$/;"	l
+tcp	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^	tcp: tegra-camera-platform {$/;"	l
+tcp	common/tegra194-camera-ov9281-hexa.dtsi	/^	tcp: tegra-camera-platform {$/;"	l
+tcp	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^	tcp: tegra-camera-platform {$/;"	l
+tcp	common/tegra194-camera-rbpcv2-imx219.dtsi	/^	tcp: tegra-camera-platform {$/;"	l
+tegra_sound	common/tegra194-audio-p3668.dtsi	/^	tegra_sound: sound {$/;"	l
+tegra_xhci	common/tegra194-p3668-common.dtsi	/^	tegra_xhci: xhci@3610000 {$/;"	l
+tegra_xudc	common/tegra194-p3668-common.dtsi	/^	tegra_xudc: xudc@3550000 {$/;"	l
+vbus_id_extcon	common/tegra194-p3668-common.dtsi	/^		vbus_id_extcon: extcon@1 {$/;"	l
+vi_port0	common/tegra194-camera-arducam.dtsi	/^				vi_port0: port@0 {$/;"	l
+vi_port0	common/tegra194-camera-dcpilot-arducam.dtsi	/^				vi_port0: port@0 {   \/*A*\/$/;"	l
+vi_port0	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				vi_port0: port@0 {$/;"	l
+vi_port0	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				vi_port0: port@0 {$/;"	l
+vi_port0	common/tegra194-camera-ov9281-hexa.dtsi	/^				vi_port0: port@0 {$/;"	l
+vi_port0	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				vi_port0: port@0 {$/;"	l
+vi_port0	common/tegra194-camera-rbpcv2-imx219.dtsi	/^				vi_port0: port@0 {$/;"	l
+vi_port1	common/tegra194-camera-arducam.dtsi	/^				vi_port1: port@1 {$/;"	l
+vi_port1	common/tegra194-camera-dcpilot-arducam.dtsi	/^				vi_port1: port@1 {    \/*C*\/$/;"	l
+vi_port1	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				vi_port1: port@1 {$/;"	l
+vi_port1	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				vi_port1: port@1 {$/;"	l
+vi_port1	common/tegra194-camera-ov9281-hexa.dtsi	/^				vi_port1: port@1 {$/;"	l
+vi_port1	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				vi_port1: port@1 {$/;"	l
+vi_port1	common/tegra194-camera-rbpcv2-imx219.dtsi	/^				vi_port1: port@1 {$/;"	l
+vi_port2	common/tegra194-camera-dcpilot-arducam.dtsi	/^				vi_port2: port@2 {   \/*B*\/$/;"	l
+vi_port2	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				vi_port2: port@2 {$/;"	l
+vi_port2	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				vi_port2: port@2 {$/;"	l
+vi_port2	common/tegra194-camera-ov9281-hexa.dtsi	/^				vi_port2: port@2 {$/;"	l
+vi_port2	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				vi_port2: port@2 {$/;"	l
+vi_port3	common/tegra194-camera-dcpilot-arducam.dtsi	/^				vi_port3: port@3 {   \/*D*\/$/;"	l
+vi_port3	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				vi_port3: port@3 {$/;"	l
+vi_port3	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				vi_port3: port@3 {$/;"	l
+vi_port3	common/tegra194-camera-ov9281-hexa.dtsi	/^				vi_port3: port@3 {$/;"	l
+vi_port3	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				vi_port3: port@3 {$/;"	l
+vi_port4	common/tegra194-camera-dcpilot-arducam.dtsi	/^				vi_port4: port@4 {   \/*F*\/$/;"	l
+vi_port4	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				vi_port4: port@4 {$/;"	l
+vi_port4	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				vi_port4: port@4 {$/;"	l
+vi_port4	common/tegra194-camera-ov9281-hexa.dtsi	/^				vi_port4: port@4 {$/;"	l
+vi_port4	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				vi_port4: port@4 {$/;"	l
+vi_port5	common/tegra194-camera-dcpilot-arducam.dtsi	/^				vi_port5: port@5 {   \/*E*\/$/;"	l
+vi_port5	common/tegra194-camera-hexa-imx219-imx412.dtsi	/^				vi_port5: port@5 {$/;"	l
+vi_port5	common/tegra194-camera-hexa-imx219-imx477.dtsi	/^				vi_port5: port@5 {$/;"	l
+vi_port5	common/tegra194-camera-ov9281-hexa.dtsi	/^				vi_port5: port@5 {$/;"	l
+vi_port5	common/tegra194-camera-rbpcv2-hexa-imx219.dtsi	/^				vi_port5: port@5 {$/;"	l
+xusb_padctl	common/tegra194-p3668-common.dtsi	/^	xusb_padctl: xusb_padctl@3520000 {$/;"	l

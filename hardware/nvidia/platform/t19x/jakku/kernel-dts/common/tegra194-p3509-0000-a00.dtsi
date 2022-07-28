@@ -19,8 +19,10 @@
 //#include "tegra194-camera-jakku-rbpcv2-hexa-imx219.dtsi"
 //#include "tegra194-camera-jakku-hexa-imx219-imx477.dtsi"
 //#include "tegra194-camera-jakku-dcpilot-arducam.dtsi"
-#include "tegra194-camera-jakku-ov9281-hexa.dtsi"
+//#include "tegra194-camera-jakku-ov9281-hexa.dtsi"
 //#include "tegra194-camera-jakku-hexa-imx219-imx412.dtsi"
+#include "tegra194-camera-jakku-hexa-ov9281-imx477.dtsi"
+
 / {
 	gpio-keys {
 		compatible = "gpio-keys";
