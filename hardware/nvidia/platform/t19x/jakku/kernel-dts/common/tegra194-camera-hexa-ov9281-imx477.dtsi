@@ -1186,8 +1186,8 @@
 				};
 			};
 			cam_module2: module2 {
-				badge = "jakku_bottomleft_AVOV9281";
-				position = "bottomleft";
+				badge = "jakku_centerleft_AVOV9281";
+				position = "centerleft"; // = "bottomleft";
 				orientation = "1";
 				status="okay";
 				cam_module2_drivernode0: drivernode0 {
@@ -1198,8 +1198,8 @@
 				};
 			};
 			cam_module3: module3 {
-				badge = "jakku_centerleft_RBP194";
-				position = "centerleft";
+				badge = "jakku_bottomleft_RBP194";
+				position = "bottomleft"; //"centerleft";
 				orientation = "1";
 				status="okay";
 				cam_module3_drivernode0: drivernode0 {
