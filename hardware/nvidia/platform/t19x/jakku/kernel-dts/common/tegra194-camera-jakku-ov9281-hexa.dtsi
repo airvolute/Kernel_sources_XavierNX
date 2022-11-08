@@ -47,12 +47,12 @@
 			vcc-supply = <&p3509_vdd_3v3_cvb>;
 			tca6408_20_outlow {
 				/*
-				* GPIO-0 : CAM0_PWDN
-				* GPIO-1 : CAM1_PWDN
-				* GPIO-2 : CAM2_PWDN
-				* GPIO-3 : CAM3_PWDN
-				* GPIO-4 : CAM4_PWDN
-				* GPIO-5 : CAM5_PWDN
+				* GPIO-0 : CSIA_PWDN
+				* GPIO-1 : CSIF_PWDN
+				* GPIO-2 : CSIC_PWDN
+				* GPIO-3 : CSIB_PWDN
+				* GPIO-4 : CSID_PWDN
+				* GPIO-5 : CSIE_PWDN
 				* GPIO-6 : EXT_GPIO_0
 				* GPIO-7 : EXT_GPIO_1
 				*/
